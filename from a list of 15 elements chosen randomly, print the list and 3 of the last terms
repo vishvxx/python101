@@ -1,0 +1,8 @@
+import random
+list = []
+for i in range(15):
+    x = random.randint(0,100)
+    list.append(x)
+
+print(list)
+print(list[12:])
