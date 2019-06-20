@@ -1,0 +1,6 @@
+x = 0
+list_of_numbers = []
+while x < 20:
+    list_of_numbers.append(x)
+    x += 1
+print(list_of_numbers)
