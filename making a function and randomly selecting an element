@@ -1,0 +1,7 @@
+import random
+
+def smit():
+    list = ['r','p','s']
+    print(random.choice(list))
+
+smit()
